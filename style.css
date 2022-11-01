@@ -21,9 +21,11 @@
 .left-side{
 	float: left;
 	width: 80%;
+	padding-top : 80px;
 }
 
 .right-side{
 	float : right;
 	width : 80%;
+	padding-top : 80px;
 }
